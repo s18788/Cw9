@@ -1,0 +1,6 @@
+C:\Users\szymo\source\repos\LinqConsoleApp\bin\Debug\ConsoleApplication.exe
+C:\Users\szymo\source\repos\LinqConsoleApp\bin\Debug\ConsoleApplication.pdb
+C:\Users\szymo\source\repos\LinqConsoleApp\obj\x86\Debug\Cw9.csprojAssemblyReference.cache
+C:\Users\szymo\source\repos\LinqConsoleApp\obj\x86\Debug\Cw9.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\LinqConsoleApp\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\szymo\source\repos\LinqConsoleApp\obj\x86\Debug\ConsoleApplication.pdb
